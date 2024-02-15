@@ -1,5 +1,3 @@
-# Voice-controlled-bot-Project
-
 <h1>Voice-controlled-bot-Project</h1>
 
 <h2>Description</h2>
